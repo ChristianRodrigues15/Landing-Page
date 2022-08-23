@@ -19,10 +19,14 @@
     top: 50%;
     align-items: center;
     justify-content: center;
+    color: #F9FAF8;
 }
 .logo {
     max-width: 50px;
     max-height: 50px;
     margin-right: 80%;
     float: left;
+}
+a {
+    color: #F9FAF8;
 }
