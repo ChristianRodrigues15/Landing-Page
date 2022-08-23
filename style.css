@@ -1,0 +1,11 @@
+.header {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: flex-end;
+    color: red;
+}
+#select {
+    display: inline;
+    margin: .75em;
+}
