@@ -1,15 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 .header {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    
+    background-color: #1F2937;
+    margin: 0 auto;
     color: red;
+    align-items: center;
 }
 #select {
     
     display: inline;
     margin: .75em;
-    
+    top: 50%;
+    align-items: center;
+    justify-content: center;
 }
 .logo {
     max-width: 50px;
