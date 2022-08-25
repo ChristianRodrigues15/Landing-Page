@@ -30,3 +30,12 @@
 a {
     color: #F9FAF8;
 }
+.all {
+    padding: 26px 15px;
+}
+.front {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
