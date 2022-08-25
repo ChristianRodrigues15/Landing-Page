@@ -38,4 +38,13 @@ a {
     flex-direction: row;
     justify-content: space-evenly;
     align-items: center;
+    background-color: #1F2937;
+}
+.desc {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+.title {
+    font-size: 48px;
+    color: #F9FAF8;
 }
