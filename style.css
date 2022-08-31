@@ -20,6 +20,7 @@
     align-items: center;
     justify-content: center;
     color: #F9FAF8;
+    font-weight: bold;
 }
 .logo {
     max-width: 50px;
@@ -50,7 +51,4 @@ a {
 .title {
     font-size: 48px;
     color: #F9FAF8;
-}
-.img1 {
-    padding-bottom: 10%;
 }
