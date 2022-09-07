@@ -67,3 +67,11 @@ a {
     flex-direction: column;
 
 }
+.signup {
+    background-color: #3882F6;
+    border-color: #3882F6;
+    padding: 5px 5px;
+    border-radius: 25px;
+    width: 70px;
+    height: 30px; 
+}
