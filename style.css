@@ -118,3 +118,9 @@ a {
     margin-left: 75%;
     font-size: 25px;
 }
+footer {
+    background-color:#1F2937;
+    height: 100px;
+    position: fixed;
+    bottom: 0px;
+}
