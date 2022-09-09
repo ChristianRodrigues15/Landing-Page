@@ -120,7 +120,19 @@ a {
 }
 footer {
     background-color:#1F2937;
-    height: 100px;
-    position: fixed;
-    bottom: 0px;
+    height: 220px;
+    color: #E5E7EB;
+    text-align: center;
+    padding: 25px 0;
+}
+.thisclass {
+    height: 350px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.subclass {
+    background-color: #3882F6;
+    width: 700px;
+    height: 200px;
 }
